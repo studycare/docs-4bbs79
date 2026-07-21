@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-nh4zg9.renoveauplomberie.fr/sitemap.xml
